@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Slamic.co/static/css/main.4658ead9.css",
+    "main.js": "/Slamic.co/static/js/main.bdf20aa6.js",
+    "static/js/787.26b18dfe.chunk.js": "/Slamic.co/static/js/787.26b18dfe.chunk.js",
+    "static/media/mosque.jpg": "/Slamic.co/static/media/mosque.8ab8bdffdd303edb7558.jpg",
+    "index.html": "/Slamic.co/index.html",
+    "main.4658ead9.css.map": "/Slamic.co/static/css/main.4658ead9.css.map",
+    "main.bdf20aa6.js.map": "/Slamic.co/static/js/main.bdf20aa6.js.map",
+    "787.26b18dfe.chunk.js.map": "/Slamic.co/static/js/787.26b18dfe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4658ead9.css",
+    "static/js/main.bdf20aa6.js"
+  ]
+}
